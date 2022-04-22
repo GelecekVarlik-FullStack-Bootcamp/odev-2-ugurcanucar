@@ -1,0 +1,15 @@
+C:\Bootcamp Projects\Ders 1\Northwind\Northwind.Interface\bin\Debug\net5.0\Northwind.Interface.deps.json
+C:\Bootcamp Projects\Ders 1\Northwind\Northwind.Interface\bin\Debug\net5.0\Northwind.Interface.dll
+C:\Bootcamp Projects\Ders 1\Northwind\Northwind.Interface\bin\Debug\net5.0\Northwind.Interface.pdb
+C:\Bootcamp Projects\Ders 1\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.csproj.AssemblyReference.cache
+C:\Bootcamp Projects\Ders 1\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp Projects\Ders 1\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.AssemblyInfoInputs.cache
+C:\Bootcamp Projects\Ders 1\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.AssemblyInfo.cs
+C:\Bootcamp Projects\Ders 1\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.csproj.CoreCompileInputs.cache
+C:\Bootcamp Projects\Ders 1\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.dll
+C:\Bootcamp Projects\Ders 1\Northwind\Northwind.Interface\obj\Debug\net5.0\refint\Northwind.Interface.dll
+C:\Bootcamp Projects\Ders 1\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.pdb
+C:\Bootcamp Projects\Ders 1\Northwind\Northwind.Interface\obj\Debug\net5.0\ref\Northwind.Interface.dll
+C:\Bootcamp Projects\Ders 1\Northwind\Northwind.Interface\bin\Debug\net5.0\Northwind.Entity.dll
+C:\Bootcamp Projects\Ders 1\Northwind\Northwind.Interface\bin\Debug\net5.0\Northwind.Entity.pdb
+C:\Bootcamp Projects\Ders 1\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.csproj.CopyComplete
